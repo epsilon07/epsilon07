@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @epsilon07
+- 👋 Hi, I’m @epsilon07 I'm French and freshly graduated with a Master's degree in Data Science.
+- I'm looking for a work opportunity abroad
 - 👀 I’m interested in Data Science, Machine Learning and Mathematics in general
 - <3 Python
 
